@@ -1,7 +1,7 @@
 # graphql-starter-kit
 
-npm install
+__npm install__
 
-npm json:server to run the fake api
+__npm json:server__ to run the fake api
 
-npm run dev to run the server http://localhost:4000/graphql to get GraphIQL
+__npm run dev__ to run the server http://localhost:4000/graphql to get GraphIQL
